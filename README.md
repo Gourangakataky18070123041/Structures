@@ -11,4 +11,5 @@ Algorithm:-
                          if(ch==0)
                           {"Statements"}
           4)for(i=0;i<n;i++){"Display"}	
+	  5)End
 Conclusion:- from this program learnt what is the function of structures and how it can be used to display different detials accordingly.
